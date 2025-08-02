@@ -26,7 +26,7 @@
 - ⚡ **Fun fact:** I think I’m funny — even my bugs get confused 😄  
 
 
-
+<br/>
 <div align="center">
 
 ## 🌐 Socials:
