@@ -22,7 +22,7 @@
 - 🤝 Seeking contributors for [**HireON – Job Portal Website**](https://hireon-74i0.onrender.com/)  
 - 💬 Ask me about **React**, **Drone Development**, **IoT**, and the **MERN Stack**  
 - 📫 Reach out: [**theshibaprasad@gmail.com**](mailto:theshibaprasad@gmail.com)  
-- 📄 [**View My Resume**]([https://drive.google.com/file/d/15xkA_opkACmQDz86GcouFXLv-xm3DxGF/view?usp=sharing](https://drive.google.com/file/d/1xGVrLyOd8prUy0cy-GBZo-Zk8wWNjPUl/view))  
+- 📄 [**View My Resume**](https://drive.google.com/file/d/1xGVrLyOd8prUy0cy-GBZo-Zk8wWNjPUl/view?usp=sharing)  
 - ⚡ **Fun fact:** I think I’m funny — even my bugs get confused 😄  
 
 
