@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Drone+Developer;Frontend+Developer;MERN+Stack+Developer;IoT+Enthusiast:GenAI+Developer;Cloud+Engineer" alt="Typing Roles Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Drone+Developer;Frontend+Developer;MERN+Stack+Developer;IoT+Enthusiast;GenAI+Developer;Cloud+Engineer" alt="Typing Roles Animation" />
 </p>
 
 <p align="left">
