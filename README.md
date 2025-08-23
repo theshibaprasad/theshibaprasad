@@ -17,9 +17,8 @@
 </p>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=theshibaprasad&label=Profile%20views%201007&color=0e75b6&style=flat" alt="theshibaprasad" /> 
+  <img src="https://img.shields.io/badge/Profile%20views-1007-blue" alt="Profile views" /> 
 </p>
-
 
 - 🔭 Currently building **NexoAI**.  
 - 🌱 Actively learning **Next.js**, **Tailwind CSS**, **TypeScript**, and exploring **Agentic Workflows**.  
