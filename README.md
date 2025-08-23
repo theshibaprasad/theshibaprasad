@@ -16,8 +16,8 @@
   <img align="right" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="320" alt="Animated Dev">
 </p>
 
-<p align="left"> 
-  <img src="https://img.shields.io/badge/Profile%20views-1007-blue" alt="Profile views" /> 
+<p align="left">
+  <img src="https://img.shields.io/badge/dynamic/json?color=0e75b6&label=Profile%20views&query=views&url=https://raw.githubusercontent.com/theshibaprasad/theshibaprasad/main/views.json" alt="Profile views" />
 </p>
 
 - 🔭 Currently building **NexoAI**.  
