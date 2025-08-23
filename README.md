@@ -17,7 +17,7 @@
 </p>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=theshibaprasad&label=Profile%20views%20(920+)&color=0e75b6&style=flat" alt="theshibaprasad" /> 
+  <img src="https://komarev.com/ghpvc/?username=theshibaprasad&label=Profile%20views%201007&color=0e75b6&style=flat" alt="theshibaprasad" /> 
 </p>
 
 
