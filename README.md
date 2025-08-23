@@ -16,6 +16,8 @@
   <img align="right" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="320" alt="Animated Dev">
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=theshibaprasad&label=Profile%20views&color=0e75b6&style=flat" alt="theshibaprasad" /> </p>
+
 - 🔭 Currently building **NexoAI**.  
 - 🌱 Actively learning **Next.js**, **Tailwind CSS**, **TypeScript**, and exploring **Agentic Workflows**.  
 - 👯 Open to collaboration on [**FinWise – AI Finance Tracker**](https://finwise-red.vercel.app/)  
