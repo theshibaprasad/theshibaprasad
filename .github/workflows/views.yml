@@ -1,0 +1,35 @@
+name: Update Profile Views
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # runs every 30 mins
+  workflow_dispatch:          # also lets you run manually
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Get Komarev Views
+        run: |
+          # Fetch komarev counter HTML
+          html=$(curl -s https://komarev.com/ghpvc/?username=theshibaprasad)
+          
+          # Extract the number
+          count=$(echo "$html" | grep -oP '\d+')
+          
+          # Add 1000 offset
+          newcount=$((count + 1000))
+          
+          # Write to views.json
+          echo "{ \"views\": $newcount }" > views.json
+
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add views.json
+          git commit -m "Update views"
+          git push
