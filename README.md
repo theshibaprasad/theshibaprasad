@@ -23,6 +23,7 @@
 - 💬 Ask me about **React**, **Drone Development**, **IoT**, and the **MERN Stack**  
 - 📫 Reach out: [**theshibaprasad@gmail.com**](mailto:theshibaprasad@gmail.com)  
 - 📄 [**View My Resume**](https://drive.google.com/file/d/1xGVrLyOd8prUy0cy-GBZo-Zk8wWNjPUl/view?usp=sharing)  
+- 📄 [**View My Portfolio**](https://portfolio-mocha-rho-94.vercel.app/)  
 - ⚡ **Fun fact:** I think I’m funny — even my bugs get confused 😄  
 
 
